@@ -1,6 +1,6 @@
 ### Homework 1
 
-#### [This](/files/Forecasting_Solar_Power_Production) my forecasting solar power production work. you can also access R codes from [Here](/files/R_codes_for_Forecasting_Solar_Power_Production.R)
+#### [This](/files/Forecasting_Solar_Power_Production) my forecasting solar power production work. You can also access R codes from [Here](/files/R_codes_for_Forecasting_Solar_Power_Production.R)
 
 
 ### Homework 2
