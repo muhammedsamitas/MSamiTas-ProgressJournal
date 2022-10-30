@@ -1,1 +1,1 @@
-# MSamiTas-ProgressJournal
+# M. Sami Taş - Progress Journal
