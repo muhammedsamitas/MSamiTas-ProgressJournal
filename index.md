@@ -3,7 +3,7 @@
 
 ### **An Overview: Trends and Analysis for IPO Market in Turkey** (16.10.2022)
 #### The total number and volume, quarterly and sectoral distributions, price performances, demand supply balances, demand balances for the sector, public disclosure rates and costs of IPOs were examined within the scope of IPO market in the last five years in Turkey. 
-- You can find some pages about the presentation in [here](/files/TR.PE_HalkaArzRaporu_Ekim2022_Limited.pdf).
+- You can find some pages about the presentation [here](/files/TR.PE_HalkaArzRaporu_Ekim2022_Limited.pdf).
 ##### Note: This study had been prepared in Turkish for the purpose of sharing with Turkish business people. The entire study was not uploaded due to confidentiality concerns.
 
 
@@ -11,7 +11,7 @@
 
 ### **Forecasting Solar Power Production** (09.06.2022)
 #### The target was forecasting hourly solar power production, using different weather variables and grid points. Linear regression based on time series decomposition and ARIMA models were implemented. 
-- You can find details in [here](/files/Forecasting_Solar_Power_Production.html).
+- You can find details [here](/files/Forecasting_Solar_Power_Production.html).
 - You can also access R codes from [here](/files/R_codes_for_Forecasting_Solar_Power_Production.R).
 
 
