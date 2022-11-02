@@ -3,8 +3,8 @@
 
 ### **An Overview: Trends and Analysis for IPO Market in Turkey** (16.10.2022)
 #### The total number and volume, quarterly and sectoral distributions, price performances, demand supply balances, demand balances for the sector, public disclosure rates and costs of IPOs were examined within the scope of IPO market in the last five years in Turkey. 
-- You can find some pages in [here](/files/TR.PE_HalkaArzRaporu_Ekim2022_Limited.pdf).
-Note: This study had been prepared in Turkish for the purpose of sharing with Turkish business people. The entire study was not uploaded due to confidentiality concerns.
+- You can find some pages about the presentation in [here](/files/TR.PE_HalkaArzRaporu_Ekim2022_Limited.pdf).
+#### Note: This study had been prepared in Turkish for the purpose of sharing with Turkish business people. The entire study was not uploaded due to confidentiality concerns.
 
 
 
