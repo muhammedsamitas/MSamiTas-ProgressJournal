@@ -1,5 +1,14 @@
 # M. Sami Taş Projects
 
+
+### **An Overview: Trends and Analysis for IPO Market in Turkey** (16.10.2022)
+#### The total number and volume, quarterly and sectoral distributions, price performances, demand supply balances, demand balances for the sector, public disclosure rates and costs of IPOs were examined within the scope of IPO market in the last five years in Turkey. 
+- You can find some pages in [here](/files/TR.PE_HalkaArzRaporu_Ekim2022_Limited.pdf).
+Note: This study had been prepared in Turkish for the purpose of sharing with Turkish business people. The entire study was not uploaded due to confidentiality concerns.
+
+
+
+
 ### **Forecasting Solar Power Production** (09.06.2022)
 #### The target was forecasting hourly solar power production, using different weather variables and grid points. Linear regression based on time series decomposition and ARIMA models were implemented. 
 - You can find details in [here](/files/Forecasting_Solar_Power_Production.html).
@@ -21,7 +30,7 @@
 
 
 ### **The Determinants of CDS, Credit Rating Companies and Their Comparison** (10.02.2021)
-####Relationship between CDS spreads and credit rating were shown by considering Turkey and emerging countries within a certain time period, and the reasons for resulting differences were criticized. Besides, the determinants of CDS were shown through regression methods.
+#### Relationship between CDS spreads and credit rating were shown by considering Turkey and emerging countries within a certain time period, and the reasons for resulting differences were criticized. Besides, the determinants of CDS were shown through regression methods.
 - You can find pdf the file [here](/files/Ec 344 - Term Paper.pdf).
 - You can access the raw data from [here](/files/Ec 344- Term Paper Data.xlsx).
 
