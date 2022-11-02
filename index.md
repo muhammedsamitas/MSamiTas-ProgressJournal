@@ -1,4 +1,4 @@
-# M. Sami Taş Projects
+# M. Sami Taş - Projects
 
 
 ### **An Overview: Trends and Analysis for IPO Market in Turkey** (16.10.2022)
